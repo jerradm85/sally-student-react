@@ -1,10 +1,36 @@
 .App {
   text-align: center;
+  border: 2px gray solid;
+  margin: 0 auto;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.Education ol{
+  margin-top: 10px;
+  width: 475px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.Contact {
+
+}
+
+ol, ul{
+  padding: 5px;
+  width: 475px;
+  margin: auto;
+  text-align: left;
+} 
+
+.Powers ul{
+  width: 475px;
+  margin: auto;
+  text-align: left;
 }
 
 @media (prefers-reduced-motion: no-preference) {
